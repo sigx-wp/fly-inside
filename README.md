@@ -1,2 +1,2 @@
-# fly-inside
-A Tello Repository for Open Day
+# Fly Inside
+    A Tello Repository for Open Day
